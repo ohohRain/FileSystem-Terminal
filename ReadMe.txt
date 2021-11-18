@@ -1,6 +1,6 @@
 ======================================================================
 
-This is a project I did with my friends Aaron Stein and Rain Chen
+This is a project I did with my friends Aaron Stein and Irtaza Waseem
 
 Authors: Irtaza Waseem, Aaron Stein, Rain Chen
 
